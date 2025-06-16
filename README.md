@@ -16,9 +16,7 @@ For more information about each POC, please refer to the main README file locate
 
 # Contributors
 
-| <img src="https://avatars.githubusercontent.com/u/91665380" alt="drawing" width="200"/> | 
-|:-:|
-| [Quentin Brejoin](https://www.github.com/Queng123) | 
+![alt](https://contrib.rocks/image?repo=Queng123/agent-pocs)
 
 # License
 
